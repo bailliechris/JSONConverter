@@ -1,0 +1,10 @@
+{
+  "name": "jsonconverter",
+  "version": "1.0.0",
+  "description": "Created to convert csv files into jsons for the keyword quiz",
+  "main": "template.js",
+  "author": "Chris Baillie",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {}
+}
